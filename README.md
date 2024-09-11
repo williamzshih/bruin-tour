@@ -23,4 +23,4 @@ Some resources for making your own data files
     ```
 
 ## Tour Example Through UCLA and Westwood, CA
-<img width="404" alt="bruin-tour example" src="https://github.com/user-attachments/assets/d795afa4-cf38-42de-9a73-60e3b8c364bc">
+<img width="404" alt="example" src="example/example.png">
