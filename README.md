@@ -7,3 +7,20 @@ Some resources for making your own data files
 - https://www.latlong.net
 - https://wiki.openstreetmap.org/wiki/Downloading_data#Choose_your_region
 - Your favorite business review app to find desired tour stops!
+
+## Running the program
+1. **Homebrew**: If you want to build with CMake, first install Homebrew by running:
+    ```bash
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+2. **CMake**: Then, install CMake by running:
+    ```bash
+    brew install cmake
+    ```
+3. Run the program by typing the following into the terminal:
+    ```bash
+    path/to/BruinTour path/to/mapdata.txt path/to/stops.txt
+    ```
+
+## Tour Example Through UCLA and Westwood, CA
+<img width="404" alt="bruin-tour example" src="https://github.com/user-attachments/assets/d795afa4-cf38-42de-9a73-60e3b8c364bc">
